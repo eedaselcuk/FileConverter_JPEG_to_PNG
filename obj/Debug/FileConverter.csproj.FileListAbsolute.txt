@@ -1,0 +1,20 @@
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.exe.config
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.exe
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.pdb
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.csprojAssemblyReference.cache
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.Form1.resources
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.cache
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.exe
+C:\Users\eedas\OneDrive\Masaüstü\EDA SELCUK\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.pdb
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\bin\Debug\FileConverter.exe.config
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\bin\Debug\FileConverter.exe
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\bin\Debug\FileConverter.pdb
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.csprojAssemblyReference.cache
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.Form1.resources
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.cache
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.exe
+E:\about the faculty lessons\EDA SELCUK\Lunes\4-FileConverter\obj\Debug\FileConverter.pdb
